@@ -13,5 +13,11 @@ By using
 
 Geany will open for message when using 'git commit' command without '-m' flag
 
+# Content of Index
+
+`git ls-files -s`
+
+
+
 
 
