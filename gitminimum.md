@@ -1,7 +1,7 @@
 ## Adding remote to local repo
 
-git remote add origin https://.......git
+git remote add myorigin https://.......git
 
 ## To set the remote as upstream:
 
-git push --set-upstream gitorig master
+git push --set-upstream myorigin master
