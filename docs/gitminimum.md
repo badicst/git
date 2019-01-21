@@ -17,6 +17,7 @@ Geany will open for message when using 'git commit' command without '-m' flag
 
 `git ls-files -s`
 
+last line
 
 
 
